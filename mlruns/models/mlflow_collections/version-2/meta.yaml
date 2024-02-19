@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1708366097920
+current_stage: None
+description: ''
+last_updated_timestamp: 1708366097920
+name: mlflow_collections
+run_id: f3f38334cca94b0797ccf0410d4ddf4d
+run_link: ''
+source: models:/mlflow_collections/1
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Lenovo/Documents/krishna/mlruns/0/f3f38334cca94b0797ccf0410d4ddf4d/artifacts/model
+user_id: null
+version: 2
